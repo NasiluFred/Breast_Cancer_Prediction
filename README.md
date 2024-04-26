@@ -1,4 +1,4 @@
-This task we shall use the breast-cancer-data .The usual goal of this dataset is to do Breast Cancer Prediction based on characteristics like (age, menopause status, tumor size, presence of invasive nodes, affected breast, metastasis status, breast quadrant, history of breast conditions, and their breast cancer diagnosis result). In the dataset
+The usual goal of this dataset is to do Breast Cancer Prediction based on characteristics like (age, menopause status, tumor size, presence of invasive nodes, affected breast, metastasis status, breast quadrant, history of breast conditions, and their breast cancer diagnosis result). In the dataset
 
 **About Dataset**
 
